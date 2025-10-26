@@ -1,0 +1,19 @@
+Python cache files
+
+pycache/
+*.pyc
+
+Local data and media
+
+/known_faces_deepface/
+*.wav
+
+Virtual environment
+
+venv/
+.venv/
+
+IDE config files
+
+.vscode/
+.idea/
